@@ -1,2 +1,2 @@
-# ecmaScript6
+# ECMAScript6
 Aprendizaje sobre el ecmaScript6
