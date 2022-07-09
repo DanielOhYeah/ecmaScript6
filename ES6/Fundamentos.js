@@ -93,7 +93,7 @@ class calculator {
 const calc = new calculator();
 console.log(calc.sum(2,4));
 
-const hello = require('./module')
+const hello = require('../module')
 
 console.log(hello());
 
