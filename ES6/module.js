@@ -4,3 +4,6 @@ function hello() {
 
 module.exports = hello
 
+const a = 'b';
+const a = 'a';
+
